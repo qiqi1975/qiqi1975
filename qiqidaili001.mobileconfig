@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>EncryptionType</key>
+				<string>WPA</string>
+				<key>Password</key>
+				<string>$%d7322819</string>
+				<key>PayloadDisplayName</key>
+				<string>Wi-Fi #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.wifi.managed.1ccb1cfd-e42d-4dd2-8cdf-4736948fa07a</string>
+				<key>PayloadType</key>
+				<string>com.apple.wifi.managed</string>
+				<key>PayloadUUID</key>
+				<string>202d467c-3642-4375-afe4-c61f02f19b29</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ProxyServer</key>
+				<string>192.168.31.189</string>
+				<key>ProxyServerPort</key>
+				<integer>7890</integer>
+				<key>ProxyType</key>
+				<string>Manual</string>
+				<key>SSID_STR</key>
+				<string>Xiaomi_3CEF_qiqi_5G</string>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>qiqidaili001</string>
+		<key>PayloadIdentifier</key>
+		<string>QIQISURFACE-PRO.4692a978-9e63-4b37-9bcd-56a8841f02e7</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>78300a66-628c-4ce2-b433-5b6aa11e81ca</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
