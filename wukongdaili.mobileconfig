@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>AutoJoin</key>
+				<true />
+				<key>CaptiveBypass</key>
+				<false />
+				<key>DisableAssociationMACRandomization</key>
+				<false />
+				<key>EncryptionType</key>
+				<string>WPA</string>
+				<key>HIDDEN_NETWORK</key>
+				<false />
+				<key>IsHotspot</key>
+				<false />
+				<key>Password</key>
+				<string>$%d7322819</string>
+				<key>PayloadDescription</key>
+				<string>配置 Wi-Fi 设置</string>
+				<key>PayloadDisplayName</key>
+				<string>Wi-Fi</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+				<key>PayloadType</key>
+				<string>com.apple.wifi.managed</string>
+				<key>PayloadUUID</key>
+				<string>5a6b2a6c-1cab-47fa-ac83-ca4d72f4ad6a</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ProxyServer</key>
+				<string>192.168.31.189</string>
+				<key>ProxyServerPort</key>
+				<integer>7890</integer>
+				<key>ProxyType</key>
+				<string>Manual</string>
+				<key>SSID_STR</key>
+				<string>Xiaomi_3CEF_qiqi_5G</string>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>悟空的代理文件</string>
+		<key>PayloadIdentifier</key>
+		<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false />
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>6aa10de4-b8c7-43f2-a541-7139fd24b573</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
